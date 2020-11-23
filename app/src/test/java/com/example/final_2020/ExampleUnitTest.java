@@ -1,4 +1,4 @@
-package com.example.final_2020_cs;
+package com.example.final_2020;
 
 import org.junit.Test;
 
