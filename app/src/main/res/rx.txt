@@ -1,0 +1,15 @@
+<WebView
+    android:id="@+id/webview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+/>
+
+
+WebView myWebView = (WebView) findViewById(R.id.webview);
+myWebView.loadUrl("http://www.example.com");
+
+WebView myWebView = new WebView(activityContext);
+setContentView(myWebView);
+
+
+myWebView.loadUrl("https://www.example.com");

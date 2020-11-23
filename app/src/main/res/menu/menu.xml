@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
+    <item
+        android:id="@+id/google_item"
+        android:title="Google"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item
+        android:id="@+id/stackoverflow_item"
+        android:title="Stack Overflow"
+        android:icon="@mipmap/ic_launcher"
+        />
+    <item
+        android:id="@+id/git_item"
+        android:title="Git hub"
+        android:icon="@mipmap/ic_launcher"
+        />
 </menu>
